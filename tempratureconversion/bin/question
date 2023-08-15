@@ -1,0 +1,3 @@
+Scenario: Bob is working on a weather app that needs to convert temperatures between Celsius and Fahrenheit. 
+He's aware of the conversion formulas but needs to write methods to perform the
+
